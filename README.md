@@ -10,6 +10,4 @@
 Hello, I am Devitzer! I like to make small projects that are more for fun than useful.
 Each project I make is something new I have never worked on before!
 
-I am working on a programming language called Obsidian! It's a very easy to learn language with documentation [here!](https://obsidian.geodax.ca/)
-
-Yes, I gave my own respository a license 😜
+I am working on a programming language called Cobalt! It's a very easy to learn language with documentation [here!](https://cobalt.devitzer.dev/docs)
